@@ -1,1 +1,1 @@
-# sutect
+Datasets of "INTELLIGENT CYBER ATTACK DETECTION USING SOCIAL MEDIA POSTS" thesis by Mustafa Aydın.
